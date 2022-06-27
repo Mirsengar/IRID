@@ -1,0 +1,12 @@
+[package]
+name = "IRID"
+version = "1.0.0"
+authors = ["Mirsengar"]
+edition = "2022"
+description = "It is a library written in Rust to parse and validate the Iranian national ID number"
+license = "MIT"
+readme = "README.md"
+keywords = ["parser", "validator", "code-meli", "national-id"]
+categories = ["algorithms", "parsing"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
